@@ -1,7 +1,7 @@
 We will expand on our webscraping project to create an R package.
 
 <Functions Pair>
-Patricia Vera-Gonzalez &
+Patricia Vera-González &
 Chang Yu
   will write functions for the package.
 
