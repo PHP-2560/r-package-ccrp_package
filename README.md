@@ -1,6 +1,16 @@
 We will expand on our webscraping project to create an R package.
 
-Patricia Vera-Gonzalez
+<Functions Pair>
+Patricia Vera-Gonzalez &
 Chang Yu
+  will write functions for the package.
+
+<Documentation Pair>
 Rachel Yorlets
+  will write documentation for functions Patricia writes.
 Chun Park
+  will write documentation for functions Chang writes.
+  
+
+Patricia <-> Rachel
+Chang    <-> Chun
